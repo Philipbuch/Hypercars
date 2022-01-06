@@ -1,0 +1,76 @@
+body{
+  background-color: rgb(31, 72, 100);
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+li a {
+    display: inline-block;
+    text-align: center;
+    width: 167px;
+    padding: 10px 40px;
+    font-size: 25px;
+    font-family: system-ui;
+    background-color: rgba(245, 238, 215, 0.87);
+    margin-top: 5%;
+    margin-left: -17%;
+    border-style: solid;
+    border-color: rgba(255, 30, 30, 0.863);
+    color: rgba(255, 30, 30, 0.863);
+    font-weight: 700;
+  }
+
+  li a:hover {
+    background-color: rgba(255, 30, 30, 0.863);
+    color: black;
+  }
+
+  h1 {
+    background-color: rgb(21, 47, 66);
+    padding: 20px;
+    font-size: 30px;
+    font-family: system-ui;
+    color: rgba(245, 238, 215, 0.87);
+    text-align: center;
+    border-style: solid;
+    border-color: rgba(245, 238, 215, 0.87);
+    
+  }
+
+.hyper {
+  background-color: rgba(245, 238, 215, 0.87);
+  text-align: center;
+  background-size: auto;
+  -ms-flex-align: center;
+  max-width: 80.5%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  border-style: solid;
+  border-color: rgba(255, 30, 30, 0.863);
+  border-width: 2px;
+
+}
+
+p {
+  font-size: 22;
+  margin-left: 55px;
+  margin-right: 55px;
+  text-align: left;
+  font-family: system-ui;
+
+}
+
+h2 {
+  font-size: 15px;
+  color: rgb(21, 47, 66);
+}
+
+
+
+  
