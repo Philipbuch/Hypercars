@@ -43,7 +43,6 @@ li a {
   background-color: rgba(245, 238, 215, 0.87);
   text-align: center;
   background-size: auto;
-  -ms-flex-align: center;
   max-width: 80.5%;
   margin-left: auto;
   margin-right: auto;
